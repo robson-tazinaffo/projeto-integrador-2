@@ -32,7 +32,7 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 3. Javascript para todo código de efeitos visuais e programação da página.
 4. Uso de API desenvolvida em NodeJs e banco de dados MySQL.
 
-![](C:\univesp\projeto-integrador\projeto-integrador-2\assets\img\image-readme.png)
+![](https://github.com/robson-tazinaffo/projeto-integrador-2/tree/main/assets/img/image-readme.png)
 
 
 
