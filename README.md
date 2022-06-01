@@ -4,7 +4,7 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 
 ## Links Úteis
 
-- [Repositório no GitHub]([robson-tazinaffo/projeto-integrador-2 (github.com)](https://github.com/robson-tazinaffo/projeto-integrador-2)) 
+- [Repositório no GitHub]([robson-tazinaffo/projeto-integrador-2 (github.com)](https://github.com/robson-tazinaffo/projeto-integrador-2))
 
 ### Requisitos:
 
@@ -13,6 +13,17 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 * [JAVASCRIPT básico](([Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/)))
 * [BOOTSTRAP]([Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/))
 
+## Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Robson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Robson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Robson-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" alt="Robson-MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Robson-Nodejs" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Robson-Ubuntu" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+
 ## Dados do desenvolvimento:
 
 1. Página inicial.
@@ -20,9 +31,6 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 3. Javascript para todo código de efeitos visuais e programação da página.
 4. Uso de API desenvolvida em NodeJs e banco de dados MySQL.
 
-![](C:\univesp\projeto-integrador\projeto-integrador-2\assets\img\image-readme.png)
-
-
+![](https://github.com/robson-tazinaffo/projeto-integrador-2/tree/main/assets/img/image-readme.png)
 
 ## 👍 OBRIGADO !! 👍
-
