@@ -29,7 +29,7 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 3. Javascript para todo código de efeitos visuais e programação da página.
 4. Uso de API desenvolvida em NodeJs e banco de dados MySQL.
   
-<img align="center" alt="Robson-Js" height="600" width="800" src=".\assets\img\image-readme.png">  
+<img align="center" alt="Robson-Js" height="600" width="900" src=".\assets\img\image-readme.png">  
 
 ## 👍 OBRIGADO !! 👍
 
