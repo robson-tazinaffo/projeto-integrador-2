@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Pesquisas</title>
+
+  <link rel="stylesheet" href="assets/css/style.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <!-------Menu Navigation------->
+  <nav id="navigation">
+    <div class="wrapper">
+      <a class="logo" href="#home">
+        <img src="assets/img/logo-univesp.png" alt="Logomarca da univesp">
+      </a>
+
+      <div class="menu">
+        <ul>
+          <li>
+            <a class="active" onclick="closeMenu()" href="index.html">Início</a>
+          </li>
+          <!-- <li><a onclick="closeMenu()" href="integrantes.html">Integrantes</a></li>
+          <li><a onclick="closeMenu()" href="#contact">Fale Conosco</a></li> -->
+        </ul>
+
+        <a class="button" onclick="closeMenu()" href="formulario.html">Formulário de Denuncia</a>
+
+      </div>
+
+      <button aria-expanded="false" aria-label="Abrir menu" onclick="openMenu()" class="open-menu">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M10 20H30" stroke="#00856F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M10 12H30" stroke="#00856F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+          <path d="M18 28L30 28" stroke="#00856F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+
+      <button aria-expanded="true" aria-label="Fechar menu" onclick="closeMenu()" class="close-menu">
+        <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M30 10L10 30M10 10L30 30" stroke="#FFFAF1" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <section id="services">
+    <div class="wrapper">
+      <header>
+        <h1>Dados de Pesquisa</h1>
+      </header>
+
+      <!-- "irmão do header"(cabeçalho) -->
+      <div class="content">
+        <div class="cards">
+          <div class="card">
+
+            <img src="assets/img/brasoes/brasao_itu.png" alt="Brasão da cidade de Ituverava">
+            <br>
+
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <circle cx="12" cy="12" r="12" fill="#DCE9E2" />
+              <path d="M17.091 8.18182L10.091 15.1818L6.90918 12" stroke="#00856F" stroke-width="1.5"
+                stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+
+            <h3>ITUVERAVA</h3>
+            <p class="mbr-text mbr-fonts-style mb-4 display-4">Casos: 130<br>Confirmados: 100<br>Em
+              análise: 30<br>Óbitos: 2<br></p>
+
+            <br>
+
+          </div>
+
+          <div class="card">
+
+            <img src="assets/img/brasoes/brasao_guara.png" alt="Brasão da cidade de Guará">
+
+            <div>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="12" cy="12" r="12" fill="#DCE9E2" />
+                <path d="M17.091 8.18182L10.091 15.1818L6.90918 12" stroke="#00856F" stroke-width="1.5"
+                  stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+              <h3>GUARÁ</h3>
+            </div>
+            <p class="mbr-text mbr-fonts-style mb-4 display-4">Casos: 130<br>Confirmados: 100<br>Em
+              análise: 30<br>Óbitos: 2<br></p>
+
+          </div>
+
+          <div class="card">
+
+            <img src="assets/img/brasoes/brasao_sjb.png" alt="Brasão da cidade de São Joaquim da Barra">
+
+            <div>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="12" cy="12" r="12" fill="#DCE9E2" />
+                <path d="M17.091 8.18182L10.091 15.1818L6.90918 12" stroke="#00856F" stroke-width="1.5"
+                  stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+              <h3>SAO JOAQUIM</h3>
+            </div>
+            <p class="mbr-text mbr-fonts-style mb-4 display-4">Casos: 130<br>Confirmados: 100<br>Em
+              análise: 30<br>Óbitos: 2<br></p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-------FOOTER(Rodapé)------->
+  <footer>
+    <div class="wrapper">
+      <div class="col-a">
+        <a class="logo" href="#home">
+          <img src="assets/img/univesplogo-1-232x85-128x47.png" alt="Logomarca da univesp">
+        </a>
+
+        <p>
+          ©2022 Grupo 073 - Ituverava-SP. <br />
+          Projeto Integrador II Univesp
+        </p>
+      </div>
+
+
+    </div>
+  </footer>
+
+  <a id="backToTopButton" href="#services">
+    <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="20" cy="20" r="20" fill="#00856F" />
+      <path d="M20 27V13" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M13 20L20 13L27 20" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+  </a>
+
+  <!-------Adicionando o ScrollReveal Lib------->
+  <script src="https://unpkg.com/scrollreveal"></script>
+
+  <!-------Adicionando o JavaScrit------->
+  <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
