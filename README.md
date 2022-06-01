@@ -7,14 +7,12 @@ O tema do seu Projeto Integrador (PI) neste semestre é: **Desenvolver um softwa
 - [Repositório no GitHub]([robson-tazinaffo/projeto-integrador-2 (github.com)](https://github.com/robson-tazinaffo/projeto-integrador-2)) 
 
 ### Requisitos:
-
 * [HTML5 básico](https://www.w3schools.com/html/)
 * [CSS3 básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JAVASCRIPT básico](([Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/)))
 * [BOOTSTRAP]([Bootstrap · The most popular HTML, CSS, and JS library in the world. (getbootstrap.com)](https://getbootstrap.com/))
 
 ## Tecnologias
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Robson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Robson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
